@@ -1,9 +1,3 @@
-************************************************************************************************************************
-			  CS226 Project: Safety Indexing Using Big Data Techniques in New York City
-							Group: 16
-	    (Mehnaz Tabassum Mahin, Muhammad Shihab Rashid, Madhurima Chakroborty, Shamali Shinde, Urja Parekh)
-************************************************************************************************************************
-
 The followings are included in the deliverables:
 1) "Final Output Files" directory: contains all types of output files
 2) "SafetyIndex" project directory: the project folder to calculate the safety index using Spark SQL in cluster mode
