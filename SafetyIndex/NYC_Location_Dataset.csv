@@ -1,0 +1,169 @@
+ZIPCode,Latitude,Longitude,Neighborhood,Borough
+10451,40.820479,-73.925084,High Bridge and Morrisania,Bronx
+10452,40.837393,-73.923437,High Bridge and Morrisania,Bronx
+10456,40.829881,-73.90812,High Bridge and Morrisania,Bronx
+10453,40.852779,-73.912332,Central Bronx,Bronx
+10457,40.84715,-73.89868,Central Bronx,Bronx
+10460,40.841758,-73.879571,Central Bronx,Bronx
+10458,40.862543,-73.888143,Bronx Park and Fordham,Bronx
+10467,40.869953,-73.865746,Bronx Park and Fordham,Bronx
+10468,40.868093,-73.89973,Bronx Park and Fordham,Bronx
+10454,40.805489,-73.916585,Hunts Point and Mott Haven,Bronx
+10455,40.81471,-73.908593,Hunts Point and Mott Haven,Bronx
+10459,40.825867,-73.892942,Hunts Point and Mott Haven,Bronx
+10474,40.810549,-73.884367,Hunts Point and Mott Haven,Bronx
+10463,40.880678,-73.90654,Kingsbridge and Riverdale,Bronx
+10471,40.898868,-73.903328,Kingsbridge and Riverdale,Bronx
+10466,40.890964,-73.846239,Northeast Bronx,Bronx
+10469,40.868607,-73.848133,Northeast Bronx,Bronx
+10470,40.88953,-73.872662,Northeast Bronx,Bronx
+10475,40.875169,-73.823817,Northeast Bronx,Bronx
+10461,40.847381,-73.840584,Southeast Bronx,Bronx
+10462,40.84328,-73.860389,Southeast Bronx,Bronx
+10464,40.867787,-73.79992,Southeast Bronx,Bronx
+10465,40.822615,-73.822239,Southeast Bronx,Bronx
+10472,40.829556,-73.869336,Southeast Bronx,Bronx
+10473,40.81869,-73.858474,Southeast Bronx,Bronx
+11212,40.662936,-73.913029,Central Brooklyn,Brooklyn
+11213,40.671078,-73.936336,Central Brooklyn,Brooklyn
+11216,40.680768,-73.949316,Central Brooklyn,Brooklyn
+11233,40.678308,-73.919936,Central Brooklyn,Brooklyn
+11238,40.679171,-73.963804,Central Brooklyn,Brooklyn
+11209,40.621982,-74.030324,Southwest Brooklyn,Brooklyn
+11214,40.599148,-73.99609,Southwest Brooklyn,Brooklyn
+11228,40.616695,-74.013047,Southwest Brooklyn,Brooklyn
+11204,40.618779,-73.984826,Borough Park,Brooklyn
+11218,40.643468,-73.976046,Borough Park,Brooklyn
+11219,40.632667,-73.996669,Borough Park,Brooklyn
+11230,40.622164,-73.965105,Borough Park,Brooklyn
+11234,40.60508,-73.911721,Canarsie and Flatlands,Brooklyn
+11236,40.639413,-73.900664,Canarsie and Flatlands,Brooklyn
+11239,40.647735,-73.879477,Canarsie and Flatlands,Brooklyn
+11223,40.597139,-73.973428,Southern Brooklyn,Brooklyn
+11224,40.577372,-73.988706,Southern Brooklyn,Brooklyn
+11229,40.601293,-73.944493,Southern Brooklyn,Brooklyn
+11235,40.583949,-73.949096,Southern Brooklyn,Brooklyn
+11201,40.693682,-73.989693,Northwest Brooklyn,Brooklyn
+11205,40.694696,-73.966286,Northwest Brooklyn,Brooklyn
+11215,40.662688,-73.98674,Northwest Brooklyn,Brooklyn
+11217,40.682306,-73.978099,Northwest Brooklyn,Brooklyn
+11231,40.677916,-74.005154,Northwest Brooklyn,Brooklyn
+11203,40.649591,-73.934371,Flatbush,Brooklyn
+11210,40.628147,-73.946324,Flatbush,Brooklyn
+11225,40.663046,-73.954219,Flatbush,Brooklyn
+11226,40.646448,-73.956649,Flatbush,Brooklyn
+11207,40.670747,-73.894209,East New York and New Lots,Brooklyn
+11208,40.669769,-73.871372,East New York and New Lots,Brooklyn
+11211,40.712597,-73.953098,Greenpoint,Brooklyn
+11222,40.72779,-73.947605,Greenpoint,Brooklyn
+11220,40.641221,-74.016862,Sunset Park,Brooklyn
+11232,40.656546,-74.007355,Sunset Park,Brooklyn
+11206,40.701954,-73.942358,Bushwick and Williamsburg,Brooklyn
+11221,40.69134,-73.927879,Bushwick and Williamsburg,Brooklyn
+11237,40.70416,-73.921139,Bushwick and Williamsburg,Brooklyn
+10026,40.802381,-73.952681,Central Harlem,Manhattan
+10027,40.811407,-73.95306,Central Harlem,Manhattan
+10030,40.818267,-73.942856,Central Harlem,Manhattan
+10037,40.812957,-73.937376,Central Harlem,Manhattan
+10039,40.830867,-73.936218,Central Harlem,Manhattan
+10001,40.750633,-73.997177,Chelsea and Clinton,Manhattan
+10011,40.742039,-74.00062,Chelsea and Clinton,Manhattan
+10018,40.755319,-73.993114,Chelsea and Clinton,Manhattan
+10019,40.765823,-73.987169,Chelsea and Clinton,Manhattan
+10020,40.758236,-73.978833,Chelsea and Clinton,Manhattan
+10036,40.75926,-73.98986,Chelsea and Clinton,Manhattan
+10029,40.791763,-73.94397,East Harlem,Manhattan
+10035,40.795455,-73.929655,East Harlem,Manhattan
+10010,40.739065,-73.982255,Gramercy Park and Murray Hill,Manhattan
+10016,40.745224,-73.978297,Gramercy Park and Murray Hill,Manhattan
+10017,40.75236,-73.972493,Gramercy Park and Murray Hill,Manhattan
+10022,40.758628,-73.967948,Gramercy Park and Murray Hill,Manhattan
+10012,40.725581,-73.998078,Greenwich Village and Soho,Manhattan
+10013,40.720103,-74.004903,Greenwich Village and Soho,Manhattan
+10014,40.734012,-74.006746,Greenwich Village and Soho,Manhattan
+10004,40.68863,-74.018244,Lower Manhattan,Manhattan
+10005,40.706027,-74.008835,Lower Manhattan,Manhattan
+10006,40.709614,-74.012954,Lower Manhattan,Manhattan
+10007,40.713848,-74.007755,Lower Manhattan,Manhattan
+10038,40.709278,-74.002562,Lower Manhattan,Manhattan
+10280,40.708538,-74.01665,Lower Manhattan,Manhattan
+10002,40.715775,-73.986212,Lower East Side,Manhattan
+10003,40.731829,-73.989181,Lower East Side,Manhattan
+10009,40.726399,-73.978631,Lower East Side,Manhattan
+10021,40.769258,-73.958751,Upper East Side,Manhattan
+10028,40.776441,-73.953509,Upper East Side,Manhattan
+10044,40.761915,-73.949962,Upper East Side,Manhattan
+10065,40.764612,-73.963122,Upper East Side,Manhattan
+10075,40.773361,-73.956216,Upper East Side,Manhattan
+10128,40.781432,-73.950013,Upper East Side,Manhattan
+10023,40.775921,-73.982607,Upper West Side,Manhattan
+10024,40.798452,-73.974428,Upper West Side,Manhattan
+10025,40.798601,-73.966622,Upper West Side,Manhattan
+10031,40.825288,-73.950045,Inwood and Washington Heights,Manhattan
+10032,40.838815,-73.942836,Inwood and Washington Heights,Manhattan
+10033,40.850545,-73.933983,Inwood and Washington Heights,Manhattan
+10034,40.867076,-73.924312,Inwood and Washington Heights,Manhattan
+10040,40.858305,-73.930549,Inwood and Washington Heights,Manhattan
+11361,40.764191,-73.772775,Northeast Queens,Queens
+11362,40.756574,-73.737845,Northeast Queens,Queens
+11363,40.772616,-73.746526,Northeast Queens,Queens
+11364,40.745289,-73.760586,Northeast Queens,Queens
+11365,40.739634,-73.79449,Central Queens,Queens
+11366,40.728152,-73.785019,Central Queens,Queens
+11367,40.730145,-73.82703,Central Queens,Queens
+11354,40.768208,-73.827403,North Queens,Queens
+11355,40.751452,-73.821031,North Queens,Queens
+11356,40.78485,-73.841279,North Queens,Queens
+11357,40.786393,-73.810864,North Queens,Queens
+11358,40.760471,-73.796371,North Queens,Queens
+11359,40.791781,-73.776875,North Queens,Queens
+11360,40.780379,-73.78123,North Queens,Queens
+11101,40.747155,-73.93975,Northwest Queens,Queens
+11102,40.772884,-73.926295,Northwest Queens,Queens
+11103,40.762574,-73.913447,Northwest Queens,Queens
+11104,40.744634,-73.920201,Northwest Queens,Queens
+11105,40.778877,-73.906769,Northwest Queens,Queens
+11106,40.762211,-73.931528,Northwest Queens,Queens
+11412,40.698095,-73.758986,Jamaica,Queens
+11423,40.715606,-73.768471,Jamaica,Queens
+11432,40.715359,-73.793071,Jamaica,Queens
+11433,40.698162,-73.786893,Jamaica,Queens
+11434,40.676808,-73.776425,Jamaica,Queens
+11435,40.701265,-73.809605,Jamaica,Queens
+11436,40.675807,-73.796622,Jamaica,Queens
+11374,40.726418,-73.861526,West Central Queens,Queens
+11375,40.720934,-73.846151,West Central Queens,Queens
+11379,40.716748,-73.879601,West Central Queens,Queens
+11385,40.700671,-73.889433,West Central Queens,Queens
+11691,40.601278,-73.761651,Rockaways,Queens
+11692,40.594095,-73.792896,Rockaways,Queens
+11693,40.590692,-73.809749,Rockaways,Queens
+11694,40.57827,-73.844762,Rockaways,Queens
+11697,40.555688,-73.920663,Rockaways,Queens
+11414,40.657604,-73.844804,Southwest Queens,Queens
+11415,40.707917,-73.828212,Southwest Queens,Queens
+11416,40.684654,-73.849548,Southwest Queens,Queens
+11417,40.676446,-73.844443,Southwest Queens,Queens
+11418,40.700272,-73.835971,Southwest Queens,Queens
+11419,40.688673,-73.822918,Southwest Queens,Queens
+11420,40.673583,-73.81773,Southwest Queens,Queens
+11421,40.694062,-73.858626,Southwest Queens,Queens
+11368,40.751718,-73.851822,West Queens,Queens
+11369,40.763365,-73.872374,West Queens,Queens
+11370,40.765393,-73.893243,West Queens,Queens
+11372,40.75169,-73.883638,West Queens,Queens
+11373,40.738837,-73.878535,West Queens,Queens
+11377,40.744819,-73.905156,West Queens,Queens
+11378,40.724744,-73.909639,West Queens,Queens
+10302,40.630688,-74.137776,Port Richmond,Staten Island
+10303,40.629885,-74.17413,Port Richmond,Staten Island
+10310,40.632648,-74.116148,Port Richmond,Staten Island
+10306,40.571768,-74.12595,South Shore,Staten Island
+10307,40.509183,-74.237785,South Shore,Staten Island
+10308,40.551884,-74.147646,South Shore,Staten Island
+10309,40.531346,-74.219857,South Shore,Staten Island
+10312,40.545237,-74.180443,South Shore,Staten Island
+10301,40.627456,-74.094407,Stapleton and St. George,Staten Island
+10304,40.609227,-74.092575,Stapleton and St. George,Staten Island
+10305,40.596691,-74.074866,Stapleton and St. George,Staten Island
+10314,40.599263,-74.165748,Mid Island,Staten Island

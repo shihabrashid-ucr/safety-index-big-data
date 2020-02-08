@@ -1,0 +1,11 @@
+To run the python files for visualization, the following software and libraries are required:
+
+Software version:
+1) Python3
+
+Libraries:
+2) geoplot
+3) geopandas
+4) Matplotlib
+5) pandas
+6) mapclasify
